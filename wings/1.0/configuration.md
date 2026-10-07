@@ -120,7 +120,7 @@ installer_limits:
 
 ## Other values
 
-More commonly discussed values. View all Wings config values and explanations in [these two files.](https://github.com/pterodactyl-oss/wings/tree/develop/config)
+More commonly discussed values. View all Wings config values and explanations in [these two files.](https://github.com/opendactyl/wings/tree/develop/config)
 
 | Setting Key                | Default Value | Notes                                                                                                                                                      |
 | -------------------------- | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |

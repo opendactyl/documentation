@@ -1,6 +1,6 @@
 module.exports = {
     base: '/',
-    title: 'Pterodactyl OSS',
+    title: 'Opendactyl',
     description: 'Pterodactyl v1 preservation/maintainence effort by the community.',
     plugins: [
         ['@vuepress/search', {
@@ -35,12 +35,12 @@ module.exports = {
         ['meta', { name: 'theme-color', content: '#0e4688' }],
     ],
     themeConfig: {
-        repo: 'pterodactyl-oss/panel',
-        docsRepo: 'pterodactyl-oss/documentation',
+        repo: 'opendactyl/panel',
+        docsRepo: 'opendactyl/documentation',
         repoLabel: 'GitHub',
         editLinkText: 'Help us improve this page.',
         editLinks: true,
-        logo: '/logos/pterry.svg',
+        logo: '/logos/operry.png',
         nav: [
             {
                 text: 'Eggs',

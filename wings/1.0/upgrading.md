@@ -33,7 +33,7 @@ servers **will not** be affected._
 
 ``` bash
 systemctl stop wings
-curl -L -o /usr/local/bin/wings "https://github.com/pterodactyl-oss/wings/releases/latest/download/wings_linux_$([[ "$(uname -m)" == "x86_64" ]] && echo "amd64" || echo "arm64")"
+curl -L -o /usr/local/bin/wings "https://github.com/opendactyl/wings/releases/latest/download/wings_linux_$([[ "$(uname -m)" == "x86_64" ]] && echo "amd64" || echo "arm64")"
 chmod u+x /usr/local/bin/wings
 ```
 

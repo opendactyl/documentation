@@ -17,7 +17,7 @@ You should be installing and using [Wings](/wings/1.0/installing.md) in producti
 Standalone SFTP support was introduced in `Panel@v0.7.11` and `Daemon@v0.6.8` and will not work with prior versions.
 :::
 
-Pterodactyl now ships with the option to use a [standalone SFTP server](https://github.com/pterodactyl-oss/sftp-server)
+Pterodactyl now ships with the option to use a [standalone SFTP server](https://github.com/opendactyl/sftp-server)
 rather than using the one that was built into the Daemon. This provides better compatibility with SFTP clients, improved
 transfer speeds, and a more native approach to file handling and server operation.
 
@@ -47,7 +47,7 @@ Once you've done that, restarting the Daemon will apply the change and not boot 
 To download the standalone server, execute the command below in your Daemon's base directory (generally `/srv/daemon`).
 
 ``` sh
-curl -Lo sftp-server https://github.com/pterodactyl-oss/sftp-server/releases/download/v1.0.5/sftp-server
+curl -Lo sftp-server https://github.com/opendactyl/sftp-server/releases/download/v1.0.5/sftp-server
 chmod +x sftp-server
 ```
 
@@ -62,7 +62,7 @@ Finally, start the SFTP server so that you can then use it to access your files.
 ```
 
 By default, this will start the SFTP server on the old port of `2022`. If you want to use a different port it can be
-specified by passing the `--port` flag. For more advanced usage, please refer to the [GitHub README](https://github.com/pterodactyl-oss/sftp-server/tree/release/v1.0.4#running)
+specified by passing the `--port` flag. For more advanced usage, please refer to the [GitHub README](https://github.com/opendactyl/sftp-server/tree/release/v1.0.4#running)
 which includes all of the flags and their default values.
 
 ## Daemonize Server

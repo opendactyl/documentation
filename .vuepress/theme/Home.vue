@@ -137,7 +137,7 @@
                         </p>
                     </div>
                     <div class="hidden md:block md:flex-1 md:pr-12">
-                        <p><a class="text-grey-lightest" href="https://github.com/pterodactyl-oss">GitHub</a></p>
+                        <p><a class="text-grey-lightest" href="https://github.com/opendactyl">GitHub</a></p>
                         <p><a class="text-grey-lightest" href="https://github.com/sponsors/pterodactyl">Sponsor</a></p>
                         <p><a class="text-grey-lightest" href="https://github.com/sponsors/pterodactyl">Donate</a></p>
                         <p><a class="text-grey-lightest" href="/panel/troubleshooting.html">Troubleshooting</a></p>
