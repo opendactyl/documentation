@@ -6,7 +6,7 @@
 
 | Name                                     | Discord Name    | Primary Role                        |
 | ---------------------------------------- | --------------- | ----------------------------------- |
-| [Robert Dennis](https://github.com/robertdrakedennis/) | `p_ntifex` | Project Maintainer |
+| [Kanika P](https://github.com/aikokanzaki/) | `kanzaki.aiko` | Project Maintainer |
 
 Members of the project team have a blue username in our Discord server.
 
