@@ -137,19 +137,19 @@
                         </p>
                     </div>
                     <div class="hidden md:block md:flex-1 md:pr-12">
-                        <p><a class="text-grey-lightest" href="https://github.com/pterodactyl">GitHub</a></p>
+                        <p><a class="text-grey-lightest" href="https://github.com/pterodactyl-oss">GitHub</a></p>
                         <p><a class="text-grey-lightest" href="https://github.com/sponsors/pterodactyl">Sponsor</a></p>
                         <p><a class="text-grey-lightest" href="https://github.com/sponsors/pterodactyl">Donate</a></p>
                         <p><a class="text-grey-lightest" href="/panel/troubleshooting.html">Troubleshooting</a></p>
                         <p><a class="text-grey-lightest" href="https://pterodactyleggs.com">Additional Game Configurations</a></p>
                     </div>
                     <div class="text-center mt-8 md:flex-1 md:mt-0">
-                        <a href="https://discord.gg/pterodactyl" target="_blank" rel="nofollow noopener">
+                        <a href="https://discord.gg/Sxr6Yf6Fyy" target="_blank" rel="nofollow noopener">
                             <img src="https://cdn.pterodactyl.io/site-assets/discord.png" class="w-3/4">
                         </a>
                     </div>
                 </div>
-                <div class="footer">MIT Licensed | Pterodactyl&reg; Copyright &copy; Dane Everitt and contributors</div>
+                <div class="footer">MIT Licensed | Not affliated with/or endorsed by Pterodactyl or Infraly LLC.</div>
             </div>
         </div>
     </div>
