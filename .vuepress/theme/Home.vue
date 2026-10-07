@@ -15,7 +15,10 @@
         </div>
         <div class="section bg-white">
             <div class="container text-center">
-                <h1 class="text-blue mb-4">Pterodactyl Panel</h1>
+                <h1 class="text-blue mb-4">The Pterodactyl Preservation</h1>
+                <h3 class="border-0 font-normal leading-normal mx-auto" style="max-width: 50rem">
+                    Community Preservation effort for the Pterodactyl Project.
+                </h3>
                 <h3 class="border-0 font-normal leading-normal mx-auto" style="max-width: 50rem">
                     Pterodactyl&reg; is a free, open-source game server management panel built with PHP, React, and Go.
                     Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers
