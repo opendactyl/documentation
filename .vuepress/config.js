@@ -1,6 +1,6 @@
 module.exports = {
     base: '/',
-    title: 'Pterodactyl OSS | Preservation Project',
+    title: 'Pterodactyl OSS',
     description: 'Pterodactyl v1 preservation/maintainence effort by the community.',
     plugins: [
         ['@vuepress/search', {
