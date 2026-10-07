@@ -48,7 +48,7 @@ are not always detected properly, so simply uppacking over this location will re
 ``` bash
 # Delete the app directory to ensure we start with a clean slate here. This will not affect any
 # of your settings or servers.
-curl -L -o panel.tar.gz https://github.com/pterodactyl/panel/releases/latest/download/panel.tar.gz
+curl -L -o panel.tar.gz https://github.com/pterodactyl-oss/panel/releases/latest/download/panel.tar.gz
 rm -rf $(find app public resources -depth | head -n -1 | grep -Fv "$(tar -tf panel.tar.gz)")
 
 # Download the updated files and delete the archive file.
@@ -125,7 +125,7 @@ php artisan up
 ```
 
 ## Switch to Wings
-We've deprecated the old Node.js daemon in favor of [Wings](https://github.com/pterodactyl/wings), our new server
+We've deprecated the old Node.js daemon in favor of [Wings](https://github.com/pterodactyl-oss/wings), our new server
 control plane written in Go. This new system is significantly faster, easier to install, and much smaller. All you
 need to do is install a single binary on your system and configure it to run on boot. **You cannot use the old Node.js
 Daemon to run servers with Pterodactyl Panel 1.0.**

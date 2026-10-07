@@ -17,7 +17,7 @@ run the commands below which will create the base directory and download the win
 
 ``` bash
 mkdir -p /etc/pterodactyl
-curl -L -o /usr/local/bin/wings https://github.com/pterodactyl/wings/releases/latest/download/wings_linux_amd64
+curl -L -o /usr/local/bin/wings https://github.com/pterodactyl-oss/wings/releases/latest/download/wings_linux_amd64
 chmod u+x /usr/local/bin/wings
 ```
 

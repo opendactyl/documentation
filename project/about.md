@@ -1,5 +1,7 @@
 # About
 
+Community Preservation affort for Pterodactyl.
+
 [[toc]]
 
 ## Core Project Team
@@ -23,4 +25,4 @@ The following companies help fund Pterodactyl's development. [Interested in beco
 
 Pterodactyl® Copyright © 2015 Dane Everitt and contributors.
 
-Code released under the [MIT License](https://github.com/pterodactyl/panel/blob/1.0-develop/LICENSE.md).
+Code released under the [MIT License](https://github.com/pterodactyl-oss/panel/blob/1.0-develop/LICENSE.md).
