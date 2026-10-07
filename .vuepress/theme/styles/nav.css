@@ -1,5 +1,6 @@
 .nav {
     @apply .fixed .w-full .bg-blue .font-sans .border-b .border-t .border-blue-darker .px-2 .text-sm .z-50 .flex;
+    top: 36px;
     height: 56px;
     line-height: 54px;
 
@@ -135,6 +136,25 @@
                 &:hover {
                     @apply .no-underline;
                 }
+            }
+        }
+    }
+}
+
+.announcement-bar {
+    @apply .fixed .w-full .bg-blue-darker .text-white .font-sans .text-sm .z-50 .flex .items-center .justify-center;
+
+    height: 36px;
+    line-height: 36px;
+
+    .announcement-content {
+        @apply .text-grey-lighter .text-center;
+
+        a {
+            @apply .text-white .font-semibold .ml-2;
+
+            &:hover {
+                @apply .no-underline .text-grey-lighter;
             }
         }
     }
