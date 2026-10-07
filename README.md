@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /doc_pterry.png
+heroImage: /doc_operry.png
 actionText: Get Started →
 actionLink: /project/introduction
 features:

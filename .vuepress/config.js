@@ -40,7 +40,7 @@ module.exports = {
         repoLabel: 'GitHub',
         editLinkText: 'Help us improve this page.',
         editLinks: true,
-        logo: '/logos/operry.png',
+        logo: '/logos/operry.svg',
         nav: [
             {
                 text: 'Eggs',
